@@ -1,0 +1,544 @@
+<!DOCTYPE HTML>
+<HTML>
+<Head>
+	<Title> Pagina de contenido </Title>
+</Head>
+<style>
+body{
+background="img/fondo.png"
+}
+
+form{
+	background-color: #717DD6;
+	text-align: left;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	border: 10px solid;
+}
+</Style>
+<Body background="img/fondo.png">
+<form>
+	<Center>
+		<section><H1>Trabajo Final Seminario de Tecnologia</h></section>
+		<img src="Img/HTML5.png" width=250>
+	</Center>
+
+	<center><section><b><H2>HTML 5</h></b></section></Center><br><br>
+	<p>
+	HTML5 (HyperText Markup Language, versión 5) es la quinta revisión importante del lenguaje básico de la World Wide Web, HTML. HTML5 especifica dos variantes de sintaxis para HTML: una «clásica», HTML (text/html), conocida como HTML5, y una variante XHTML conocida como sintaxis XHTML5 que deberá servirse con sintaxis XML (application/xhtml+xml). Esta es la primera vez que HTML y XHTML se han desarrollado en paralelo. La versión definitiva de la quinta revisión del estándar se publicó en octubre de 2014.
+	</p>
+	<p>
+	HTML 5 se lanzó por primera vez en formato público el 22 de enero de 2008, con una actualización importante y el estado "Recomendación W3C" en octubre de 2014. Sus objetivos son mejorar el idioma con soporte para los últimos elementos multimedia y otras funciones nuevas; para mantener el lenguaje fácilmente legible para los humanos y consistentemente entendido por computadoras y dispositivos tales como navegadores web, analizadores sintácticos, etc., sin la rigidez de XHTML; y también para seguir siendo compatible con versiones anteriores con software más antiguo. HTML 5 está destinado a incluir no solo HTML 4, sino también XHTML 1 y DOM Level 2 HTML; las especificaciones HTML 4 y XHTML se anunciaron como reemplazadas por HTML 5.2 el 27 de marzo de 2018.
+	</p>
+	<p>
+HTML 5 incluye modelos de procesamiento detallados para fomentar más implementaciones interoperables; amplía, mejora y racionaliza el marcado disponible para documentos, e introduce el marcado y las interfaces de programación de aplicaciones (API) para aplicaciones web complejas. Por las mismas razones, HTML 5 también es un candidato para aplicaciones móviles multiplataforma, ya que incluye características diseñadas con dispositivos de baja potencia en mente.
+	</p>
+	<p>
+	HTML5 establece una serie de nuevos elementos y atributos que reflejan el uso típico de los sitios web modernos. Algunos de ellos son técnicamente similares a las etiquetas "div" y "span", pero tienen un significado semántico, como por ejemplo "nav" (bloque de navegación del sitio web) y "footer".
+	</p>
+	<p>	
+	Haciendo click <a href="https://es.wikipedia.org/wiki/Anexo:Etiquetas_HTML/XHTML" target="Blank"> Aqui</a> podremos ver algunas de las etiquetas HTML/XHTML. Para saber mas informacion sobre los siguientes temas, hacer click en ellos:
+<a href="https://es.wikipedia.org/wiki/World_Wide_Web_Consortium" target="Blank"> W3C</a>, 
+<a href="https://es.wikipedia.org/wiki/HTML" target="Blank">HTML</a>,
+<a href="https://es.wikipedia.org/wiki/XHTML" target="Blank">XHTML</a>.
+	</p>
+	<p>
+	Algunos videos relacionados con HTML5 que se pueden encontrar son: <br>
+<li>El canal de <a href="https://www.youtube.com/playlist?list=PLv6CkzbbGAlXld23oW5eTzoSrtHkV6i99" target="Blank">EDteam</a>.<br></li>
+<li><a href="https://www.youtube.com/watch?v=vay6y6exqfg" target="blank">Comparacion entre  HTML, XHTML y HTML5</a>.<br></li>
+<li>Para mas informacion sobre XHTML podemos ver <a href="https://www.youtube.com/watch?v=mMVqcTNsCrE" target="blank">este</a> video.</li>
+<li><a href="https://www.youtube.com/watch?v=_93kDSPlKIM" target="blank">Introduccion a HTML</a></li>
+	</p>
+	<section>
+		<center><img src="img/css3.png" width=250></center>
+		<b><H2><center>CSS3</center></h></b>
+	</section>
+	<p>
+	CSS3 es la última evolución del lenguaje de las Hojas de Estilo en Cascada (Cascading Style Sheets), y pretende ampliar la versión CSS2. Trae consigo muchas novedades altamente esperadas, como las esquinas redondeadas, sombras, gradientes , transiciones o animaciones, y nuevos layouts como multi-columnas, cajas flexibles o maquetas de diseño en cuadrícula (grid layouts). 
+	</p>
+	<p>
+	Las partes experimentales son particulares para cada navegador y deberían ser evitadas en entornos de producción, o usadas con extrema precaución, ya que tanto la sintaxis como la semántica pueden cambiar en el futuro.
+	</p>
+	<p>
+	<b>Los módulos y el proceso de estandarización</b><br><br>
+El Nivel 2 de CSS necesitó 9 años, desde Agosto de 2002 hasta Junio de 2011, para alcanzar el estado de Recomendación. Esto fué debido al hecho de que algunas características secundarias fueron retiradas de las especificaciones globales, con el fin de acelerar la normalización de las características no problemáticas.
+	</p>
+	<p>
+	<a href="https://www.w3.org/blog/CSS/" target="blank">El Grupo de Trabajo CSS</a> de la W3C, en una decisión referida como la doctrina Beijing dividió CSS en componentes más pequeños llamados módulos cada uno de estos módulos es ahora una parte independiente del lenguaje y se dirije a la estandarización a su propio ritmo mientras algunos módulos son ya recomendados de la W3C, otros todavía son borradores iniciales tambíen se añaden nuevos módulos cuando se identifican nuevas necesidades.
+	</p>
+	<section><b>Para mas informacion del tema podemos ver:</b></section><br><br>
+		<li><a href="https://www.w3schools.com/css/default.asp" target="blank">Ejemplos de CSS3</a> <br>
+		<li> <a href="https://css3seoanehighlandsblog.wordpress.com/2015/06/02/historia-y-evolucion-de-css/" target="blank"> Historia y Evolución </a> <br>
+		<li> <a href="http://www.profesordeinformatica.com/css/sintaxis" target="blank"> Sintaxis CSS</a> <br><br>
+
+	<section><b>Algunos Videos para obtener mas concimientos son:</b></section><br><br>
+		<li><a href="https://www.youtube.com/watch?v=pp2aNmvM9Bw" Target="blank">Tutorial CSS3</a>
+		<li><a href="https://www.youtube.com/watch?v=643dVVz65Ls" Target="blank">Curso CSS3 desde 0</a>
+		<li><a href="https://www.youtube.com/watch?v=yiRiHMJPoH4" Target="blank">Historia CSS3</a>
+		<li><a href="https://www.youtube.com/watch?v=deNIvZnkLzE" Target="blank">Introduccion CSS3</a>
+	<section>
+		<center><img src="img/JavaScript.png" width=250></center>
+		<b><H2><center>JavaScript</center></h></b>
+	</section>
+	<p>
+	JavaScript (abreviado comúnmente JS) es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, basado en prototipos, imperativo, débilmente tipado y dinámico.
+	</p>
+	<p>
+	Se utiliza principalmente en su forma del lado del cliente (client-side), implementado como parte de un navegador web permitiendo mejoras en la interfaz de usuario y páginas web dinámicas4 aunque existe una forma de JavaScript del lado del servidor(Server-side JavaScript o SSJS). 
+	</p>
+	<p>
+	Su uso en aplicaciones externas a la web, por ejemplo en documentos PDF, aplicaciones de escritorio (mayoritariamente widgets ) es también significativo.
+	</p>
+	<p>
+	JavaScript se diseñó con una sintaxis similar a C, aunque adopta nombres y convenciones del lenguaje de programación Java. Sin embargo, Java y JavaScript tienen semánticas y propósitos diferentes.
+	</p>
+	<section><b>Algunos links para obtener mas conocimiento del tema son:</b></section><br>
+		<li><a href="https://www.javascript.com/" Target="blank">Pagina oficial de Java	</a>
+		<li><a href="https://www.w3schools.com/js/default.asp" Target="blank">Tutorial de JavaScript</a>
+		<li><a href="http://www.utel.edu.mx/blog/menu-profesional/historia-del-lenguaje-javascript/" Target="blank">Historia de JavaScript</a>
+		<li><a href="https://es.wikipedia.org/wiki/JavaScript#Desarrollos_posteriores" Target="blank">Desarrollos Posteriores de JS</a><br><br>
+	<section><b>Algunos Videos de Ayuda son:</b></section><br>
+		<li><a href="https://www.youtube.com/watch?v=xnWtGNiG2lg" Target="blank">Curso basico de JS</a>
+		<li><a href="https://platzi.com/cursos/fundamentos-javascript/" Target="blank">Fundamentos JS</a>
+		<li><a href="https://www.youtube.com/watch?v=qx3hoETuLh8" Target="blank">JS en web</a>
+		<li><a href="https://www.youtube.com/watch?v=M9UX_yq8rlI" Target="blank">Curso JS principiantes</a>
+	<section>
+		<center><img src="img/pwa.png" width=250></center>
+		<b><H2><center>PROGRESSIVE WEB APPS</center></h></b>
+	</section>
+	<p>
+	Progressive web apps (o aplicaciones web progresivas), es un término que se da a una nueva generación de aplicaciones que incrementan su funcionalidad, conforme las capacidades del dispositivo en el que se ejecutan, incrementan, de ahí la palabra progresiva. 
+	</p>
+	<p>
+	El nombre web, hace referencia a que se construyen utilizando estándares de desarrollo web, algunos ya conocidos como HTML, CSS y javaScript; y una nueva generación de APIs de javaScript. App es porque las Progressive Web Apps se comportan como aplicaciones web nativas, pero usan tecnologías web.
+	</p>
+	<p>
+	Una nueva generación de estándares web, quiera completar la brecha, algo que me gusta y entusiasma, es que los estándares y los navegadores, han progresado tanto, que ya no buscamos crear aplicaciones nativas, falsas, con tecnologías web; lo que buscamos ahora es crear aplicaciones web, que por sí mismas, cubran las brechas de experiencia que las aplicaciones nativas tenían de ventaja. 
+	</p>
+	<p>
+	Son aplicaciones web, no aplicaciones nativas, pero usar cualquiera de ellas es (o debería ser) indiferente para el usuario.
+	</p>
+	<section><b>Algunos enlaces para mas informacion son:</b></section><br>
+		<li><a href="https://codigofacilito.com/articulos/progressive-apps" Target="blank">Breve historia</a>
+		<li><a href="https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=es" Target="blank">Como crear PWA</a>
+		<li><a href="https://es.goodbarber.com/blog/las-progressive-web-apps-todo-lo-que-se-tiene-que-saber-a604/" Target="blank">Todo lo que se debe saber</a>
+		<li><a href="https://www.campusmvp.es/recursos/post/Que-son-las-Aplicaciones-Web-Progresivas-o-Progressive-Web-Apps.aspx" Target="blank">Limitaciones</a><br><br>
+
+	<section><b>Videos Relacionados</b></section><br>
+		<li><a href="https://developers.google.com/web/progressive-web-apps/" Target="blank">Google y las PWA</a>
+		<li><a href="https://www.youtube.com/watch?v=z6LR-IppZpc" Target="blank">PWA en HTML5</a>
+		<li><a href="https://www.youtube.com/watch?vO0sw5qZtrJE" Target="blank">Pequeña demostracion</a>
+		<li><a href="https://www.youtube.com/watch?v=gcx-3qi7t7c" Target="blank">Tutorial de PWA</a>
+	<section>
+		<center><img src="img/ia.png" width=250></center>
+		<b><H2><center>INTELIGENCIA ARTIFICIAL (IA)</center></h></b>
+	</section>
+	<p>
+	La inteligencia artificial ( IA ), también llamada inteligencia computacional, es la inteligencia exhibida por máquinas. 
+	</p>
+	<p>
+	En ciencias de la computación, una máquina «inteligente» ideal es un agente racional flexible que percibe su entorno y lleva a cabo acciones que maximicen sus posibilidades de éxito en algún objetivo o tarea.
+	</p>
+	<p>
+	Coloquialmente, el término inteligencia artificial se aplica cuando una máquina imita las funciones « cognitivas » que los humanos asocian con otras mentes humanas, como por ejemplo: "aprender" y "resolver problemas".
+	</p>
+	<p>
+	Según Takeyas (2007) la IA es una rama de las ciencias computacionales encargada de estudiar modelos de cómputo capaces de realizar actividades propias de los seres humanos en base a dos de sus características primordiales: el razonamiento y la conducta.
+	</p>
+	<section><b>Algunos enlaces con informacion Adicional</b></section><br>
+		<li><a href="https://es.wikipedia.org/wiki/Inteligencia_artificial" Target="blank">Inteligencia Artificial</a>
+		<li><a href="https://www.muyinteresante.es/tecnologia/articulo/ventajas-y-riesgos-de-la-inteligencia-artificial-651449483429" Target="blank">Ventajas y Desventajas</a>
+		<li><a href="https://www.definicionabc.com/tecnologia/inteligencia-artificial.php" Target="blank">Mas Definiciones</a>
+		<li><a href="https://www.salesforce.com/mx/products/einstein/ai-deep-dive/" Target="blank">Como funciona</a><br><br>
+
+	<section><b>Videos relacionados:</b></section><br>
+		<li><a href="https://www.bbva.com/es/que-es-la-inteligencia-artificial/" Target="blank">Que es IA?</a>
+		<li><a href="https://www.youtube.com/watch?v=XgDfv5cI2VI" Target="blank">Un poco mas sobre IA</a>
+		<li><a href="http://www.europapress.es/portaltic/software/noticia-conceptos-basicos-entender-inteligencia-artificial-20180701112951.html" Target="blank">Conceptos Basicos</a>
+		<li><a href="https://www.youtube.com/watch?v=IZrDnyHB1t8" Target="blank">Especulaciones de IA</a><br><br>
+
+	<section>
+		<li><b>Machine Learning</b></li>
+	</section>
+	<p>
+	Machine learning o aprendizaje automático.
+	</p>
+	<p>
+En realidad el nombre de la tecnología resulta bastante preciso. Aprender automáticamente es la característica principal que diferencia a estos sistemas de otros menos avanzados. 
+	</p>
+	<p>
+Aquí se le proporciona a un algoritmo un conjunto de reglas para que las aplique cuando se encuentre con los datos pertinentes. Pero el software tiene la capacidad de adaptar dichas reglas y crear otras nuevas para mejorar su tasa de acierto.
+	</p>
+	<p>
+El Machine Learning en su uso más básico es la práctica de usar algoritmos para parsear datos, aprender de ellos y luego ser capaces de hacer una predicción o sugerencia sobre algo.
+	</p>
+
+	<section><b>Enlaces relacionados</b></section><br>
+		<li><a href="https://blog.adext.com/es/machine-learning-guia-completa" Target="blank">Guia de Machine learning</a>
+		<li><a href="http://eleternoestudiante.com/curso-online-machine-learning-espanol-stanford/" Target="blank">Cursos Machine Learning</a><br><br>
+
+	<section><b>Videos Relacionados</b></section><br>
+		<li><a href="https://retina.elpais.com/retina/2017/10/19/innovacion/1508392516_816211.html" Target="blank">Para que sirve?</a>
+		<li><a href="https://www.youtube.com/watch?v=oGdmSshtVWw" Target="blank">Como funciona</a><br><br><br>
+	<section>
+		<li><b>Deep Learning</b></li>
+	</section>
+	<p>
+	Deep learning o aprendizaje profundo.
+	</p>
+	<p>
+	Deep Learning es un subconjunto dentro del campo del Machine Learning, el cual predica con la idea del aprendizaje desde el ejemplo.
+	</p>
+	<p>
+	En Deep Learning, en lugar de enseñarle a ordenador una lista enorme de reglas para solventar un problema, le damos un modelo que pueda evaluar ejemplos y una pequeña colección de instrucciones para modificar el modelo cuando se produzcan errores. Con el tiempo esperamos que esos modelos sean capaces de solucionar el problema de forma extremadamente precisa, gracias a que el sistema es capaz de extraer patrones.
+	</p>
+	<p>
+	Aunque existen distintas técnicas para implementar Deep Learning, una de las más comunes es simular un sistema de redes artificiales de neuronasdentro del software de análisis de datos.
+	</p>
+
+	<section><b>Enlaces para mas conocimiento:</b></section><br>
+		<li><a href="https://es.wikipedia.org/wiki/Aprendizaje_profundo#Las_GPU_para_procesamiento_general" Target="blank">GPU para procesamiento general</a>
+		<li><a href="https://es.wikipedia.org/wiki/Aprendizaje_profundo#Las_GPU_en_la_nube" Target="blank">GPU en la nube</a><br><br>
+
+	<section><b>Videos para Mas conocimiento:</b></section><br>
+		<li><a href="https://www.youtube.com/watch?v=KytW151dpqU" Target="blank">Que es Deep Learning</a>
+		<li><a href="https://www.youtube.com/watch?v=GgrhnPGIUxM" Target="blank">Introduccion</a><br><br>
+
+	<section>
+		<li><b>Redes Neuronales</b></li>
+	</section>
+	<p>
+	Las redes neuronales (también conocidas como sistemas conexionistas) son un modelo computacional basado en un gran conjunto de unidades neuronales simples (neuronas artificiales), de forma aproximadamente análoga al comportamiento observado en los axones de las neuronas en los cerebros biológicos. 
+	</p>
+	<p>
+	Estos sistemas aprenden y se forman a sí mismos, en lugar de ser programados de forma explícita, y sobresalen en áreas donde la detección de soluciones o características es difícil de expresar con la programación convencional.
+	</p>
+	<p>
+	Las redes neuronales suelen consistir en varias capas o un diseño de cubo, y la ruta de la señal atraviesa de adelante hacia atrás. 
+	</p>
+	<p>
+	Propagación hacia atrás es donde se utiliza la estimulación hacia adelante o en el "frente" para restablecer los pesos de las unidades neuronales y esto a veces se realiza en combinación con una formación en la que se conoce el resultado correcto.
+	</p>
+
+	<section><b>Enlaces Relacionados</b></section><br>
+		<li><a href="https://es.wikipedia.org/wiki/Red_neuronal_artificial" Target="blank">Red Neuronal Artificial</a>
+		<li><a href="https://es.wikipedia.org/wiki/Red_neuronal_artificial#La_elecci%C3%B3n_de_una_funci%C3%B3n_de_coste" Target="blank">Eleccion de funcion d Coste</a><br><br>
+
+
+	<section><b>Videos relacionados</b></section><br>
+		<li><a href="https://www.youtube.com/watch?v=6vwfT3-mBBw" Target="blank">Como funciona</a>
+		<li><a href="https://www.youtube.com/watch?v=jaEIv_E29sk" Target="blank">Conocimientos basicos</a><br><br>
+
+
+	<section>
+		<center><img src="img/criptomoneda.png" width=250></center>
+		<b><H2><center>CRIPTOMONEDA</center></h></b>
+	</section>
+	<p>
+	Una criptomoneda , criptodivisa (del inglés cryptocurrency) o criptoactivo es un medio digital de intercambio. La primera criptomoneda que empezó a operar fue el bitcoin en 2009 y, desde entonces, han aparecido muchas otras con diferentes características y protocolos como Litecoin, Ethereum, Ripple, Dogecoin.
+	</p>
+	<p>
+	En los sistemas de criptomonedas, se garantiza la seguridad, integridad y equilibrio de sus estados de cuentas (contabilidad) por medio de un entramado de agentes (transferencia de archivo segmentada o transferencia de archivo multifuente) que se verifican (desconfían) mutuamente llamados mineros, que son, en su mayoría, público en general y protegen activamente la red (el entramado) al mantener una alta tasa de procesamiento de algoritmos, con la finalidad de tener la oportunidad de recibir una pequeña propina, que se reparte de manera aleatoria.
+	</p>
+	<p>
+	Romper la seguridad existente en una criptomoneda es matemáticamente posible, pero el costo para lograrlo sería inasumiblemente alto. 
+	</p>
+	<p>
+	Está previsto que en el futuro la computación cuántica pueda llegar a ser una realidad, lo que rompería el equilibrio en caso de que los desarrolladores no pudieran implementar a tiempo el sistema para usar	algoritmos poscuánticos , por tratarse de una tecnología propietaria.
+	</p>
+
+	<section><b>Algunos Enlaces Relacionados:</b></section><br>
+		<li><a href="https://es.wikipedia.org/wiki/Criptomoneda#Caracter%C3%ADsticas" Target="blank">Cacteristicas</a>
+		<li><a href="https://es.wikipedia.org/wiki/Criptomoneda#Legalidad" Target="blank">Legalidad</a>
+		<li><a href="https://coinmarketcap.com/es/" Target="blank">Tipos</a>
+		<li><a href="http://www.finanzas.com/noticias/economia/20180807/ethereum-gran-esperanza-criptomonedas-3888594.html" Target="blank">Nuevos Tipos</a><br><br>
+
+	<section><b>Videos Relacionados</b></section><br>
+		<li><a href="https://www.youtube.com/watch?v=FmtyY2hmg04" Target="blank">Funcionamiento</a>
+		<li><a href="https://www.xataka.com/criptomonedas/bitcoin-blockchain-y-criptomonedas-explicado-de-forma-sencilla-y-en-video" Target="blank">Todo lo que debes saber</a>
+		<li><a href="https://cnnespanol.cnn.com/video/criptomoneda-ico-oferta-inicial-de-moneda-explicacion-pkg-ramy-zabarah/" Target="blank">Como se crean</a>
+		<li><a href="https://www.youtube.com/watch?v=f6KAteOHPt4" Target="blank">Como invertir</a><br><br>
+
+	<section>
+		<center><img src="img/blockchain.png" width=250></center>
+		<b><H2><center>BLOCKCHAIN</center></h></b>
+	</section>
+	<p>
+	Cadena de bloques. Formación de una cadena de bloques. La cadena mayor (negra) consta de la serie de bloques más larga del bloque de génesis (verde) al bloque actual. Los bloques huérfanos (púrpura) existen fuera de la cadena mayor.
+<br><br>
+Una cadena de bloques o cadena articulada [cita requerida], conocida en inglés como blockchain, es una estructura de datos en la que la información contenida se agrupa en conjuntos (bloques) a los que se les añade meta informaciones relativas a otro bloque de la cadena anterior en una línea temporal, de manera que gracias a técnicas criptográficas, la información contenida en un bloque sólo puede ser repudiada o editada modificando todos los bloques posteriores. 
+<br><br>
+Esta propiedad permite su aplicación en entorno distribuido de manera que la estructura de datos blockchain puede ejercer de base de datos pública no relacional que contenga un histórico irrefutable de información.
+<br><br>
+Este enfoque tiene diferentes aspectos: <br>
+•	Almacenamiento de datos : se logra mediante la replicación de la información de la cadena de bloques.<br>
+•	Transmisión de datos : se logra mediante redes de pares.<br>
+•	Confirmación de datos: se logra mediante un proceso de consenso entre los nodos participantes. <br>
+	</p>
+
+	<section><b>Enlaces Relacionados</b></section><br>
+		<li><a href="https://es.wikipedia.org/wiki/Cadena_de_bloques#Clasificaci%C3%B3n" Target="blank">Clasificacion</a>
+		<li><a href="https://es.wikipedia.org/wiki/Cadena_de_bloques#Cadena_lateral" Target="blank">Cadena Lateral</a>
+		<li><a href="https://es.wikipedia.org/wiki/Cadena_de_bloques#Aspectos_jur%C3%ADdicos_de_las_cadenas_de_bloques_y_Bitcoin" Target="blank">Aspectos Juridicos</a>
+		<li><a href="https://www.redbull.com/es-es/que-es-blockchain" Target="blank">Por que de su exito</a><br><br>
+
+	<section><b>Videos Relacionados</b></section><br>
+		<li><a href="https://www.youtube.com/watch?v=b5dhq3dSG2k" Target="blank">Como funciona</a>
+		<li><a href="https://www.youtube.com/watch?v=l2QAy1kKI94" Target="blank">Lo que hay que saber</a>
+		<li><a href="https://www.youtube.com/watch?v=Yn8WGaO__ak" Target="blank">Que es</a>
+		<li><a href="https://www.dw.com/es/qu%C3%A9-es-el-blockchain/av-40288046" Target="blank">Contenido</a><br><br>
+
+	<section>
+		<center><img src="img/ciberseguridad.png" width=250></center>
+		<b><H2><center>CYBERSEGURIDAD</center></h></b>
+	</section>
+	<p>
+	Seguridad informática. La seguridad informática, también conocida como ciberseguridad o seguridad de tecnologías de la información, es el área relacionada con la informática y la telemática que se enfoca en la protección de la infraestructura computacional y todo lo relacionado con esta y, especialmente, la información contenida en una computadora o circulante a través de las redes de computadoras.
+<br><br>
+La ciberseguridad comprende software (bases de datos, metadatos, archivos), hardware, redes de computadoras y todo lo que la organización valore y signifique un riesgo si esta información confidencial llega a manos de otras personas, convirtiéndose, por ejemplo, en información privilegiada.
+<br><br>
+La definición de seguridad de la información no debe ser confundida con la de «seguridad informática», ya que esta última solo se encarga de la seguridad en el medio informático, pero la información puede encontrarse en diferentes medios o formas, y no solo en medios informáticos.
+<br><br>
+La seguridad informática es la disciplina que se encarga de diseñar las normas, procedimientos, métodos y técnicas destinados a conseguir un sistema de información seguro y confiable.<br><br>
+	</p>
+
+	<section><b>Enlaces relacionados</b></section><br>
+		<li><a href="https://www.welivesecurity.com/la-es/2015/06/16/ciberseguridad-seguridad-informacion-diferencia/" Target="blank">Diferencia</a>
+		<li><a href="https://itla.edu.do/seguridad/diplomado" Target="blank">Su tecnico</a>
+		<li><a href="https://www.pmg-ssi.com/2017/01/ciberseguridad-seguridad-informacion/" Target="blank">Mas informacion</a>
+		<li><a href="https://es.wikipedia.org/wiki/Seguridad_inform%C3%A1tica#Amenazas" Target="blank">Amenazas</a>
+
+	<section><b>Videos relacionados</b></section><br>
+		<li><a href="https://www.youtube.com/watch?v=TM-OT1U3P0k" Target="blank">Introduccion</a>
+		<li><a href="https://www.youtube.com/watch?v=3nZ4gedCZfI" Target="blank">Seguridad Logica</a>
+		<li><a href="https://www.youtube.com/watch?v=EHjmxujXIaQ" Target="blank">Seguridad en empresa</a>
+		<li><a href="https://www.incibe.es/protege-tu-empresa/talleres-ciberseguridad-pymes" Target="blank">Talleres</a>
+
+	<section>
+		<center><img src="img/VR.png" width=250></center>
+		<b><H2><center>REALIDAD VIRTUAL</center></h></b>
+	</section>
+	<p>
+	La realidad virtual ( RV ) es un entorno de escenas u objetos de apariencia real. La acepción más común refiere a un entorno generado mediante tecnología informática, que crea en el usuario la sensación de estar inmerso en él. Dicho entorno es contemplado por el usuario a través de un dispositivo conocido como gafas o casco de realidad virtual. <br><br>
+
+Este puede ir acompañado de otros dispositivos, como guantes o trajes especiales, que permiten una mayor interacción con el entorno así como la percepción de diferentes estímulos que intensifican la sensación de realidad.<br><br>
+
+El término realidad virtual (RV) se popularizó a finales de la década de 1980 por Jaron Lanier, uno de los pioneros del campo. Al mismo tiempo, también apareció el término Realidad Artificial ( RA ). <br><br>
+
+Una definición que se usa con mayor frecuencia para entornos virtualmente generados es la de "estar en un lugar o entorno , incluso cuando uno se encuentra físicamente en otro".6 o, más brevemente, "estar allí".<br><br>
+	</p>
+
+	<section><b>Enlaces Relacionados</b></section><br>
+		<li><a href="https://es.wikipedia.org/wiki/Realidad_virtual#Presencia_e_inmersi%C3%B3n" Target="blank">Presencia e inmersion</a>
+		<li><a href="https://es.wikipedia.org/wiki/Realidad_virtual#Inmersi%C3%B3n_y_navegaci%C3%B3n" Target="blank">Inmersion y navegacion</a>
+		<li><a href="https://es.wikipedia.org/wiki/Realidad_virtual#Tipos_de_realidad_virtual" Target="blank">Tipos de Realidad Virtual</a>
+		<li><a href="https://es.wikipedia.org/wiki/Realidad_virtual#Historia" Target="blank">Historia</a>
+
+	<section><b>Videos relacionados</b></section><br>
+		<li><a href="https://www.youtube.com/watch?v=PGIFXHmw_js" Target="blank">Como funciona</a>
+		<li><a href="https://www.youtube.com/watch?v=_X4evVupJS4" Target="blank">Dispositivos</a>
+		<li><a href="https://www.xataka.com/n/ocho-usos-que-no-te-esperabas-de-la-realidad-virtual" Target="blank">Usos</a>
+		<li><a href="https://www.youtube.com/watch?v=egSM43U7B_c" Target="blank">Todo lo necesario</a>
+
+	<section>
+		<center><img src="img/ar.png" width=250></center>
+		<b><H2><center>REALIDAD AUMENTADA</center></h></b>
+	</section>
+	<p>
+	La realidad aumentada ( RA ) es el término que se usa para definir la visión de un entorno físico del mundo real, a través de un dispositivo tecnológico.<br><br>
+
+Este dispositivo o conjunto de dispositivos, añaden información virtual a la información física ya existente; es decir, una parte sintética virtual a la real .<br><br>
+
+La realidad aumentada es diferente de la realidad virtual: sobre la realidad material del mundo físico monta una realidad visual generada por la tecnología, en la que el usuario percibe una mezcla de las dos realidades; en cambio, en la realidad virtual el usuario se aísla de la realidad material del mundo físico para sumergirse en un escenario o entorno totalmente virtual.<br><br>
+
+Con la ayuda de la tecnología; por ejemplo, añadiendo la visión por un computador y reconocimiento de objetos, la información sobre el mundo real alrededor del usuario, se convierte en interactiva y digital . <br><br>
+
+La realidad aumentada de investigación explora la aplicación de imágenes generadas por ordenador en tiempo real a secuencias de vídeo como una forma de ampliar el mundo real. <br><br>
+	</p>
+
+	<section><b>Enlaces Relacionados</b></section><br>
+		<li><a href="https://es.wikipedia.org/wiki/Realidad_aumentada" Target="blank">Realidad Aumentada</a>
+		<li><a href="https://www.bbc.com/mundo/noticias-37678017" Target="blank">Diferencias con la virtual</a>
+		<li><a href="https://www.iberdrola.com/te-interesa/tecnologia/que-es-realidad-aumentada" Target="blank">Como funciona</a>
+		<li><a href="https://www.xataka.com/basics/diferencias-entre-realidad-aumentada-realidad-virtual-y-realidad-mixta" Target="blank">Mas informacion</a>
+
+	<section><b>Videos Relacionados</b></section><br>
+		<li><a href="https://www.youtube.com/watch?v=-qb4YkhRO58" Target="blank">Como funciona</a>
+		<li><a href="https://www.youtube.com/watch?v=NfQPkY0cp2I" Target="blank">Que es</a>
+		<li><a href="https://www.youtube.com/watch?v=GtL1dlcGC80" Target="blank">Usos en la actualidad</a>
+		<li><a href="https://www.youtube.com/watch?v=jOCWX9fCcOg" Target="blank">Todo lo que hay que saber</a>
+
+	<section>
+		<center><img src="img/rm.png" width=250></center>
+		<b><H2><center>REALIDAD MIXTA</center></h></b>
+	</section>
+	<p>
+	La realidad mixta ( RM ), también llamada a veces realidad híbrida, es la combinación de realidad virtual y realidad aumentada.<br><br>
+
+Esta combinación permite crear nuevos espacios en los que interactúan tanto objetos y/o personas reales como virtuales. Se puede considerar como una mezcla entre la realidad, realidad aumentada, virtualidad aumentada y realidad virtual. <br><br>
+
+El término realidad mixta no debe confundirse con el de realidad aumentada o RA. La realidad aumentada genera los estímulos a tiempo real para la interacción interacción del usuario, los cuales se superponen sobre el entorno físico de este, mientras que la realidad mixta no sólo permite la interacción del usuario con el entorno virtual sino que también permite que objetos físicos del entorno inmediato del usuario sirvan como elementos de interacción con el entorno virtua.<br><br>
+
+La realidad mixta permite la incorporación de objetos gráficos generados por ordenador en una escena tridimensional del mundo real o bien la incorporación de objetos reales en un mundo virtual.<br><br>
+	</p>
+
+
+	<section><b>Enlaces Relacionados</b></section><br>
+		<li><a href="https://es.wikipedia.org/wiki/Realidad_mixta" Target="blank">Mas info al respecto</a>
+		<li><a href="https://editeca.com/realidad-mixta/" Target="blank">Oportunidades de ella</a>
+		<li><a href="http://www.baboonlab.com/en_US/blog/news-1/post/realidad-mixta-el-futuro-de-la-tecnologia-inmersiva-17" Target="blank">Como nos aiuda</a>
+		<li><a href="https://www.bbc.com/mundo/noticias-42455209" Target="blank">Mas informacion</a>
+
+	<section><b>Videos Relacionados</b></section><br>
+		<li><a href="https://www.youtube.com/watch?v=pT837AAIwKI" Target="blank">Explicacion</a>
+		<li><a href="https://www.lavanguardia.com/tecnologia/20160301/40122967080/microsoft-hololens-realidad-mixta-videos.html" Target="blank">Como funciona</a>
+		<li><a href="https://www.youtube.com/watch?v=vllkffJXpkU" Target="blank">Usos en la actualidad</a>
+		<li><a href="https://www.youtube.com/watch?v=mY79nrqCBQY" Target="blank">Todo lo que debes saber</a><br><br>
+
+	<section>
+		<center><img src="img/iot.png" width=250></center>
+		<b><H2><center>IOT (Internet de las cosas)</center></h></b>
+	</section>
+	<p>
+	Internet de las cosas (Internet of Things) es un concepto que se refiere a la interconexión digital de objetos cotidianos con Internet.<br><br>
+
+Alternativamente, Internet de las cosas es la conexión de Internet con más cosas u objetos que con personas. También, se suele conocer como Internet de todas las cosas o Internet en las cosas. Si los objetos de la vida cotidiana tuvieran incorporadas etiquetas de radio, podrían ser identificados y gestionados por otros equipos, de la misma manera que si lo fuesen por seres humanos. <br><br>
+
+El concepto de Internet de las cosas fue propuesto por Kevin Ashton en el Auto-ID Center del MIT en 1999, donde se realizaban investigaciones en el campo de la identificación por radiofrecuencia en red (RFID) y tecnologías de sensores. <br><br>
+
+El Internet de las cosas debería codificar de 50 a 100 000 millones de objetos y seguir el movimiento de estos. Se calcula que todo ser humano está rodeado, al menos, por un total de aproximadamente 1000 a 5000 objetos.<br><br>
+	</p>
+
+
+	<section><b>Enlaces Relacionados</b></section><br>
+		<li><a href="https://es.wikipedia.org/wiki/Internet_de_las_cosas#Definici%C3%B3n_original" Target="blank">Definicion Original</a>
+		<li><a href="https://es.wikipedia.org/wiki/Internet_de_las_cosas#Aplicaciones" Target="blank">Aplicaciones</a>
+		<li><a href="https://hipertextual.com/archivo/2014/10/internet-cosas/" Target="blank">Como funciona</a>
+		<li><a href="https://searchdatacenter.techtarget.com/es/definicion/Internet-de-las-cosas-IoT" Target="blank">Como nos aiuda</a>
+
+	<section><b>Videos Relacionados</b></section><br>
+		<li><a href="https://www.youtube.com/watch?v=FrcmgTs7buY" Target="blank">Explicacion</a>
+		<li><a href="https://www.youtube.com/watch?v=542oTWpKPlE" Target="blank">Como funciona</a>
+		<li><a href="https://www.youtube.com/watch?v=UuhnLc5wG-k" Target="blank">En que ayuda</a>
+		<li><a href="https://www.youtube.com/watch?v=uVrqett3d3A" Target="blank">Desventajas</a>
+
+	<section>
+		<center><img src="img/mecatronica.png" width=250></center>
+		<b><H2><center>MECATRONICA</center></h></b>
+	</section>
+	<p>
+	La mecatrónica es una disciplina que sirve para diseñar y desarrollar productos que involucren sistemas de control para el diseño de productos o procesos inteligentes, lo cual busca crear maquinaria más compleja para facilitar las actividades del ser humano a través de procesos electrónicos en la industria mecánica, principalmente.<br><br>
+
+Esta disciplina une la ingeniería mecánica, ingeniería electrónica, ingeniería de control e ingeniería informática. Debido a que combina varias ingenierías en una sola, su punto fuerte es la versatilidad .<br><br>
+
+Un consenso común es describir a la mecatrónica como una disciplina integradora de las áreas de mecánica, electrónica e informática cuyo objetivo es proporcionar mejores productos, procesos y sistemas industriales. <br><br>
+
+La mecatrónica no es, por tanto, una nueva rama de la ingeniería, sino un concepto recientemente desarrollado que enfatiza la necesidad de integración y de una interacción intensiva entre diferentes áreas de la ingeniería.<br><br>
+	</p>
+
+	<section><b>Enlaces Relacionados</b></section><br>
+		<li><a href="https://es.wikipedia.org/wiki/Ingenier%C3%ADa_mecatr%C3%B3nica#Uso_%C3%BAtil" Target="blank">Uso Util</a>
+		<li><a href="http://www.areatecnologia.com/electronica/mecatronica.html" Target="blank">Usos de la mecatronica</a>
+		<li><a href="https://www.itla.edu.do/mecatronica/" Target="blank">Cursos</a>
+		<li><a href="https://www.universidadescr.com/blog/que-es-la-ingenieria-mecatronica/" Target="blank">Mas informacion</a>
+
+
+	<section><b>Videos Relacionados</b></section><br>
+		<li><a href="https://www.youtube.com/watch?v=zYo8z2r3mnY" Target="blank">Mas sobre mecatronica</a>
+		<li><a href="https://www.youtube.com/watch?v=uhgTgSHJXU8" Target="blank">Todo lo que debes saber</a>
+		<li><a href="https://www.youtube.com/watch?v=pbRELYwucQI" Target="blank">En que nos ayuda</a>
+		<li><a href="https://www.youtube.com/watch?v=wkeBlYBe4cU" Target="blank">Diferencia entre robotica y mecatronica</a>
+
+
+	<section>
+		<center><img src="img/3dp.png" width=250></center>
+		<b><H2><center>3D PRINTING</center></h></b>
+	</section>
+	<p>
+	La impresión 3D es un grupo de tecnologías de fabricación por adición donde un objeto tridimensional es creado mediante la superposición de capas sucesivas de material.<br><br>
+
+Las impresoras 3D son por lo general más rápidas, más baratas y más fáciles de usar que otras tecnologías de fabricación por adición, aunque como cualquier proceso industrial, estarán sometidas a un compromiso entre su precio de adquisición y la tolerancia en las medidas de los objetos producidos.<br><br>
+
+Las impresoras 3D ofrecen a los desarrolladores del producto la capacidad para imprimir partes y montajes hechos de diferentes materiales con diferentes propiedades físicas y mecánicas, a menudo con un simple proceso de ensamble.<br><br>
+
+Las tecnologías avanzadas de impresión 3D pueden incluso ofrecer modelos que pueden servir como prototipos de producto.<br><br>
+	</p>
+
+	<section><b>Enlaces Relacionados</b></section><br>
+		<li><a href="https://es.wikipedia.org/wiki/Impresora_3D#Software" Target="blank">Software</a>
+		<li><a href="https://www.impresoras3d.com/breve-historia-de-la-impresion-3d/" Target="blank">Historia</a>
+		<li><a href="https://es.digitaltrends.com/guias/mejores-impresoras-3d/" Target="blank">Como funcionan</a>
+		<li><a href="https://www.tecnonauta.com/notas/560-impresoras-3d-que-son-para-que-sirven" Target="blank">Para que sirven</a>
+
+	<section><b>Videos Relacionados</b></section><br>
+		<li><a href="https://www.youtube.com/watch?v=y5p8kzYt8Ig" Target="blank">Como funciona</a>
+		<li><a href="https://www.youtube.com/watch?v=Rl3RRbMPUvk" Target="blank">Ultimos Avances</a>
+		<li><a href="https://www.youtube.com/watch?v=7vPX1i8IUzo" Target="blank">En que nos ayuda</a>
+		<li><a href="https://www.youtube.com/watch?v=lefdSEHDAA0" Target="blank">Articulos hechos con esta impresora</a><br><br>
+
+	<section>
+		<center><img src="img/tg5.png" width=250></center>
+		<b><H2><center>TECNOLOGIA G5</center></h></b>
+	</section>
+	<p>
+	Tecnología 5G: La próxima manera de manejar la telefonía móvil. La nueva tecnología de quinta generación, es la proxima manera de manejar la telefonía móvil, y prevén que dara gran impacto económico y productivo.<br><br>
+
+La quinta generación de tecnología móvil está aproximándose, aunque suene difícil de digerir ya que existen compañías móviles que no tiene completamente la tecnología G4, esta nueva idea ya está ejecutándose y tiene grandes beneficios, según los expertos.<br><br>
+
+Con gran impacto económico y productivo la tecnología de quinta generación, es la proxima manera de manejar la telefonía móvil.<br><br>
+
+Descargas de datos que superan a las de las actuales redes fijas de fibra óptica, y así cualquier película de 1GB estará lista en menos de diez segundos. <br><br>
+	</p>
+
+
+	<section><b>Enlaces Relacionados</b></section><br>
+		<li><a href="https://cnnespanol.cnn.com/2018/01/31/5g-que-es-como-funciona-que-cambia/" Target="blank">Todo lo que debes saber</a>
+		<li><a href="https://www.gemalto.com/latam/telecom/inspiracion/5g" Target="blank">Mas sobre 5G</a>
+		<li><a href="https://www.tecnocosas.es/tecnologia-5g-caracteristicas-nuevo-estandar-movil/" Target="blank">Caracteristicas</a>
+		<li><a href="https://www.todoandroid.es/que-es-5g-velocidad-caracteristicas-fecha-llegada/" Target="blank">Diferencias de predecesores</a>
+
+	<section><b>Videos Relacionados</b></section><br>
+		<li><a href="https://www.youtube.com/watch?v=sglUdPNhCDU" Target="blank">Generacion 5G</a>
+		<li><a href="https://www.youtube.com/watch?v=4WWGtFD9VoQ" Target="blank">Informacion Relevante</a>
+		<li><a href="https://cnnespanol.cnn.com/video/tecnologia-5g-nueva-rapida-vo-portafolio/" Target="blank">Para que nos sirve</a>
+		<li><a href=https://cnnespanol.cnn.com/video/tecnologia-5g-avances-innovacion-jose-sevilla-entrevista-luengo-romero-dinero/"" Target="blank">Su relacion con IOT</a>
+
+	<section><b><center><H2>Resumen</h></Center></b></section>
+	<p>
+	HTML5 es la quinta revision importante de HTML. Se lanzó al publico el 22 de enero de 2008. Sus objetivos son mejorar el idio,a con sopoprte para los últimos elementos multimedia y otras funciones nuevas, para mantener el lenguaje fácilmente legible para los humanos y consistentemente entendido por computadoras y dispositivos tales como navegadores web, analizadores sintácticos, etc., sin la rigidez de XHTML. HTML5 establece una serie de nuevos elementos y atributos que reflejan el uso típico de los sitios web modernos. Algunos de ellos son técnicamente similares a las etiquetas "div" y "span", pero tienen un significado semántico, como por ejemplo "nav" (bloque de navegación del sitio web) y "footer".<br><br>
+
+CSS3 es la última evolución del lenguaje de CSS y pretende ampliar la version anterior.Las partes experimentales son particulares para cada navegador y deberían ser evitadas en entornos de producción, o usadas con extrema precaución, ya que tanto la sintaxis como la semántica pueden cambiar en el futuro.<br><br>
+
+JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se utiliza principalmente en su forma del lado del cliente y su uso en aplicaciones externas a la web, por ejemplo en documentos PDF, aplicaciones de escritorio es también significativo.<br><br>
+
+Progressive web apps es un término que se da a una nueva generación de aplicaciones que incrementan su funcionalidad, conforme las capacidades del dispositivo en el que se ejecutan, incrementan, de ahí la palabra progresiva. Esto hace referencia a que se construyen utilizando estándares de desarrollo web, algunos ya conocidos como HTML, CSS y javaScript; y una nueva generación de APIs de JavaScript.<br><br>
+
+La inteligencia artificial es la inteligencia exhibida por máquinas. En ciencias de la computación esto se refiere a un agente racional flexible que percibe su entorno y lleva a cabo acciones que maximicen sus posibilidades de éxito en algún objetivo o tarea. Algunos terminos que se comprenden son el machine learning, que es aprender automáticamente es la característica principal que diferencia a estos sistemas de otros menos avanzados. Deep learning, en lugar de enseñarle a ordenador una lista enorme de reglas para solventar un problema, le damos un modelo que pueda evaluar ejemplos y una pequeña colección de instrucciones para modificar el modelo cuando se produzcan errores.Por ultimo estan las redes Neuronales que son un modelo computacional basado en un gran conjunto de unidades neuronales simples, de forma aproximadamente análoga al comportamiento observado en los axones de las neuronas en los cerebros biológicos.<br><br>
+
+Una criptomoneda es un medio digital de intercambio. En los sistemas de criptomonedas, se garantiza la seguridad, integridad y equilibrio de sus estados de cuentas por medio de un entramado de agentes que se verifican mutuamente llamados mineros.<br><br>
+
+Cadena de bloques es una estructura de datos en la que la información contenida se agrupa en conjuntos (bloques) a los que se les añade meta informaciones relativas a otro bloque de la cadena anterior en una línea temporal, de manera que gracias a técnicas criptográficas, la información contenida en un bloque sólo puede ser repudiada o editada modificando todos los bloques posteriores. <br><br>
+
+La seguridad informática es el área relacionada con la informática y la telemática que se enfoca en la protección de la infraestructura computacional y todo lo relacionado con esta, haciendo enfasis en la información contenida en una computadora o circulante a través de las redes de computadoras. La seguridad informática es la disciplina que se encarga de diseñar las normas, procedimientos, métodos y técnicas destinados a conseguir un sistema de información seguro y confiable.<br><br>
+
+La realidad virtual es un entorno de escenas u objetos de apariencia real. ste puede ir acompañado de otros dispositivos, como guantes o trajes especiales, que permiten una mayor interacción con el entorno así como la percepción de diferentes estímulos que intensifican la sensación de realidad.<br><br>
+
+La realidad aumentada es el término que se usa para definir la visión de un entorno físico del mundo real, a través de un dispositivo tecnológico. La realidad aumentada es diferente de la realidad virtual: sobre la realidad material del mundo físico monta una realidad visual generada por la tecnología, en la que el usuario percibe una mezcla de las dos realidades; en cambio, en la realidad virtual el usuario se aísla de la realidad material del mundo físico para sumergirse en un escenario o entorno totalmente virtual.<br><br>
+
+La realidad mixta es la combinación de realidad virtual y realidad aumentada. La realidad mixta no sólo permite la interacción del usuario con el entorno virtual sino que también permite que objetos físicos del entorno inmediato del usuario sirvan como elementos de interacción con el entorno virtua.<br><br>
+
+Internet de las cosas es un concepto que se refiere a la interconexión digital de objetos cotidianos con Internet. El concepto de Internet de las cosas fue propuesto por Kevin Ashton en el Auto-ID Center del MIT en 1999, donde se realizaban investigaciones en el campo de la identificación por radiofrecuencia en red (RFID) y tecnologías de sensores. <br><br>
+
+La mecatrónica es una disciplina que sirve para diseñar y desarrollar productos que involucren sistemas de control para el diseño de productos o procesos inteligentes, lo cual busca crear maquinaria más compleja para facilitar las actividades del ser humano a través de procesos electrónicos en la industria mecánica. Es un concepto recientemente desarrollado que enfatiza la necesidad de integración y de una interacción intensiva entre diferentes áreas de la ingeniería.<br><br>
+
+La impresión 3D es un grupo de tecnologías de fabricación por adición donde un objeto tridimensional es creado mediante la superposición de capas sucesivas de material. Estas impresoras  ofrecen a los desarrolladores del producto la capacidad para imprimir partes y montajes hechos de diferentes materiales con diferentes propiedades físicas y mecánicas, a menudo con un simple proceso de ensamble.<br><br>
+
+Tecnología 5G: La próxima manera de manejar la telefonía móvil. La nueva tecnología de quinta generación, es la proxima manera de manejar la telefonía móvil, y prevén que dara gran impacto económico y productivo. Con gran impacto económico y productivo la tecnología de quinta generación, es la proxima manera de manejar la telefonía móvil.<br><br>
+	</p>
+
+	<center><b>Junior Antonio Rodriguez Medrano 15-EISM-1-102</b></center><br>
+	<center>Seminario De Tecnología</center>
+</body>
+</form>
+</html>
